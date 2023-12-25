@@ -23,6 +23,8 @@ https://www.pythonanywhere.com - ссылка на бесплатный хост
 
 ![Хостинг](https://github.com/UnrealStephan/Final_project/assets/86574529/b1679d2d-9db6-418a-ba7f-84da4e67815a)
 
+TG_BOT.py и train_clean.csv - файлы, загруженные на хостинг
+
 https://drive.google.com/drive/folders/1vH8LyKbjNZS2Y_Fq71XoP-rU5WuzEdda?usp=sharing - директория на гугл-диске (файлы те же, но именно здесь я работал)
 
 Телеграм-бот способен предсказывать, будет ли пассажир перенесен в альтернативное измерение во время столкновения с пространственно-временной аномалией на космическом корабле "Титаник"
