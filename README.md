@@ -19,7 +19,9 @@ TG_BOT.ipynb - файл в котором реализован 4 этап раб
 
 https://t.me/Alternate_Dimension_Bot - ссылка на бота
 
-https://www.pythonanywhere.com - ссылка на бесплатный хостинг (из минусов - нужно перезапускать код каждые 24 часа)
+https://www.pythonanywhere.com - ссылка на бесплатный хостинг
+
+![Хостинг](https://github.com/UnrealStephan/Final_project/assets/86574529/b1679d2d-9db6-418a-ba7f-84da4e67815a)
 
 https://drive.google.com/drive/folders/1vH8LyKbjNZS2Y_Fq71XoP-rU5WuzEdda?usp=sharing - директория на гугл-диске (файлы те же, но именно здесь я работал)
 
